@@ -8,4 +8,4 @@
 <img src="https://github.com/Matheus-Almeida78/We-Care/blob/master/descktop.JPG?raw=true"width="700px"/>
 <h2>Ilustração do projeto Phone</h2>
 <img src="https://github.com/Matheus-Almeida78/We-Care/blob/master/Phone.JPG?raw=true" />
-<a href="https://matheus-almeida78.github.io/We-Care/" targent="_blank">Link do projeto</a>
+<a href="https://matheus-almeida78.github.io/We-Care/" target="_blank">Link do projeto</a>
