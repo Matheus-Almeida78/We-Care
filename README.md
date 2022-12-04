@@ -4,5 +4,7 @@
 <p><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></p>
 <br>
-<h2>Ilustração do projeto</h2>
-<img src="">
+<h2>Ilustração do projeto descktop</h2>
+<img src="https://github.com/Matheus-Almeida78/We-Care/blob/master/descktop.JPG?raw=true"width="700px"/>
+<h2>Ilustração do projeto Phone</h2>
+<img src="https://github.com/Matheus-Almeida78/We-Care/blob/master/Phone.JPG?raw=true" />
